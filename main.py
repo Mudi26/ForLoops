@@ -16,4 +16,4 @@ for i in range(1, count+1):
 # Use a for loop to print the decreasing part of the pattern
 
 for i in range(count-1, 0, -1):
-    print (symbol*i)
+    print (symbol*i)#abc
